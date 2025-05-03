@@ -44,3 +44,30 @@ Open a terminal/command prompt and run the game script:
 
 ```bash
 python tic_tac_toe_computer.py
+```
+### Step 3: Choose the Game Mode.
+When prompted, enter either:
+
+player for Player vs Player mode.
+
+computer for Player vs Computer mode.
+
+### Step 4: Play the Game!
+Click on the buttons to make your move.
+
+The game will automatically check for the winner or a draw.
+
+## 🎮 How to Play
+Player vs Player Mode:
+
+Two players take turns to place their respective marks (X and O) in the grid.
+
+The first player to get three marks in a row wins!
+
+If all spots are filled and there's no winner, the game ends in a draw.
+
+Player vs Computer Mode:
+
+Player (X) takes the first move, and the computer (O) takes the second.
+
+The computer selects random available spots for its moves.
